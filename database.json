@@ -1,0 +1,372 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "nama": "Ahmad Fauzan",
+      "nim": "20231001",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Jakarta, 15 Januari 2005",
+      "email": "ahmad.fauzan@unpam.ac.id",
+      "status": "lulus"
+    },
+    {
+      "id": "102",
+      "nama": "Siti Nurhaliza",
+      "nim": "20231002",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bogor, 22 Maret 2005",
+      "email": "siti.nurhaliza@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "103",
+      "nama": "Budi Santoso",
+      "nim": "20221015",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Depok, 10 Juli 2004",
+      "email": "budi.santoso@unpam.ac.id",
+      "status": "cuti"
+    },
+    {
+      "id": "104",
+      "nama": "Dewi Kartika",
+      "nim": "20231003",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Tangerang, 5 Desember 2005",
+      "email": "dewi.kartika@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "105",
+      "nama": "Rizki Ramadhan",
+      "nim": "20211030",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Bekasi, 18 Agustus 2003",
+      "email": "rizki.ramadhan@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "106",
+      "nama": "Andi Saputra",
+      "nim": "20231004",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Jakarta, 8 Februari 2005",
+      "email": "andi.saputra@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "107",
+      "nama": "Rina Amelia",
+      "nim": "20231005",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bogor, 14 Mei 2005",
+      "email": "rina.amelia@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "108",
+      "nama": "Dimas Pratama",
+      "nim": "20221016",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Depok, 20 Januari 2004",
+      "email": "dimas.pratama@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "109",
+      "nama": "Nabila Putri",
+      "nim": "20221017",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Tangerang, 2 Juni 2004",
+      "email": "nabila.putri@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "110",
+      "nama": "Fajar Nugroho",
+      "nim": "20211031",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Bekasi, 17 September 2003",
+      "email": "fajar.nugroho@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "111",
+      "nama": "Yusuf Maulana",
+      "nim": "20231006",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Serang, 12 April 2005",
+      "email": "yusuf.maulana@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "112",
+      "nama": "Lina Marlina",
+      "nim": "20231007",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bandung, 19 Juli 2005",
+      "email": "lina.marlina@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "113",
+      "nama": "Agus Setiawan",
+      "nim": "20221018",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Cilegon, 6 Oktober 2004",
+      "email": "agus.setiawan@unpam.ac.id",
+      "status": "cuti"
+    },
+    {
+      "id": "114",
+      "nama": "Maya Sari",
+      "nim": "20221019",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Sukabumi, 1 Maret 2004",
+      "email": "maya.sari@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "115",
+      "nama": "Taufik Hidayat",
+      "nim": "20211032",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Garut, 9 November 2003",
+      "email": "taufik.hidayat@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "116",
+      "nama": "Putri Aulia",
+      "nim": "20231008",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Jakarta, 25 Mei 2005",
+      "email": "putri.aulia@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "117",
+      "nama": "Ilham Akbar",
+      "nim": "20231009",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bogor, 30 Juni 2005",
+      "email": "ilham.akbar@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "118",
+      "nama": "Rahmawati",
+      "nim": "20221020",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Depok, 15 Januari 2004",
+      "email": "rahmawati@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "119",
+      "nama": "Bagus Firmansyah",
+      "nim": "20221021",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Bekasi, 11 Februari 2004",
+      "email": "bagus.firmansyah@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "120",
+      "nama": "Vina Lestari",
+      "nim": "20211033",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Tangerang, 7 Juli 2003",
+      "email": "vina.lestari@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "121",
+      "nama": "Arif Rahman",
+      "nim": "20231010",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bandung, 21 Maret 2005",
+      "email": "arif.rahman@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "122",
+      "nama": "Nur Aisyah",
+      "nim": "20231011",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Cianjur, 13 Agustus 2005",
+      "email": "nur.aisyah@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "123",
+      "nama": "Galih Prasetyo",
+      "nim": "20221022",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Bogor, 4 April 2004",
+      "email": "galih.prasetyo@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "124",
+      "nama": "Nisa Khairunnisa",
+      "nim": "20221023",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Jakarta, 18 Mei 2004",
+      "email": "nisa.khairunnisa@unpam.ac.id",
+      "status": "cuti"
+    },
+    {
+      "id": "125",
+      "nama": "Rendy Saputra",
+      "nim": "20211034",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Depok, 22 Oktober 2003",
+      "email": "rendy.saputra@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "126",
+      "nama": "Aulia Rahma",
+      "nim": "20231012",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bekasi, 12 Januari 2005",
+      "email": "aulia.rahma@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "127",
+      "nama": "Mochammad Fikri",
+      "nim": "20231013",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Serang, 29 Mei 2005",
+      "email": "m.fikri@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "128",
+      "nama": "Syifa Nabila",
+      "nim": "20221024",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Bandung, 16 Juli 2004",
+      "email": "syifa.nabila@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "129",
+      "nama": "Hendra Gunawan",
+      "nim": "20221025",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Garut, 2 September 2004",
+      "email": "hendra.gunawan@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "130",
+      "nama": "Wulan Sari",
+      "nim": "20211035",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Tasikmalaya, 10 Desember 2003",
+      "email": "wulan.sari@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "131",
+      "nama": "Farhan Akmal",
+      "nim": "20231014",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Jakarta, 6 Februari 2005",
+      "email": "farhan.akmal@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "132",
+      "nama": "Intan Permata",
+      "nim": "20231015",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bogor, 17 April 2005",
+      "email": "intan.permata@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "133",
+      "nama": "Rafi Prakoso",
+      "nim": "20221026",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Depok, 11 Juni 2004",
+      "email": "rafi.prakoso@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "134",
+      "nama": "Anisa Maharani",
+      "nim": "20221027",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Tangerang, 23 Juli 2004",
+      "email": "anisa.maharani@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "135",
+      "nama": "Dedi Kurniawan",
+      "nim": "20211036",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Bekasi, 14 Agustus 2003",
+      "email": "dedi.kurniawan@unpam.ac.id",
+      "status": "lulus"
+    },
+
+    {
+      "id": "136",
+      "nama": "Salsa Billa",
+      "nim": "20231016",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Bandung, 9 September 2005",
+      "email": "salsa.billa@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "137",
+      "nama": "Muhammad Ridho",
+      "nim": "20231017",
+      "tahun_angkatan": 2023,
+      "tempat_tanggal_lahir": "Cilegon, 20 Oktober 2005",
+      "email": "m.ridho@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "138",
+      "nama": "Novi Anggraini",
+      "nim": "20221028",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Serang, 15 Januari 2004",
+      "email": "novi.anggraini@unpam.ac.id",
+      "status": "aktif"
+    },
+    {
+      "id": "139",
+      "nama": "Yoga Pratama",
+      "nim": "20221029",
+      "tahun_angkatan": 2022,
+      "tempat_tanggal_lahir": "Sukabumi, 5 Februari 2004",
+      "email": "yoga.pratama@unpam.ac.id",
+      "status": "cuti"
+    },
+    {
+      "id": "140",
+      "nama": "Cindy Oktavia",
+      "nim": "20211037",
+      "tahun_angkatan": 2021,
+      "tempat_tanggal_lahir": "Jakarta, 27 November 2003",
+      "email": "cindy.oktavia@unpam.ac.id",
+      "status": "lulus"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
