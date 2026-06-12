@@ -368,5 +368,11 @@
       "status": "lulus"
     }
   ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2y$10$pyZxrJiBE/EIvIgv9Kt6JOpABS4gc2LGI.o0WcMp4d7tQhvnVT6rq"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }

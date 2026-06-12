@@ -27,7 +27,7 @@ import {
   Search,
   SortAsc,
   SortDesc,
-  ChevronDown,
+  GitMerge,
   CheckCircle,
   Loader2,
   ArrowUpDown,
